@@ -1,2 +1,2 @@
-# npri-db
-Scripts for accessing and copying NPRI, Stat Can, and other data
+# npri-web-facilities
+Streamlit dashboard for intuitively and interactively summarizing NPRI information about facilities in a place
